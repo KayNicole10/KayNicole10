@@ -3,7 +3,7 @@
 <h2>👨‍💻 MY Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/KayNicole10/post-install-config)
+  - [osTicket: Configuration](https://github.com/KayNicole10/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/KayNicole10/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs (Part One - Creating VMs)](https://github.com/KayNicole10/configure-ad-part-1)
