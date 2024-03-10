@@ -3,13 +3,13 @@
 <h2>👨‍💻 MY Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/KayNicole10/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/KayNicole10/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs (Part One - Creating VMs)](https://github.com/joshmadakorcc/configure-ad)
-  - [Configuring Active Directory within Azure VMs (Part Two - Installing Active Directory)](https://github.com/joshmadakorcc/configure-ad)
-  - [Configuring Active Directory within Azure VMs (Part Three - Creating User Accounts)](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs (Part One - Creating VMs)](https://github.com/KayNicole10/configure-ad)
+  - [Configuring Active Directory within Azure VMs (Part Two - Installing Active Directory)](https://github.com/KayNicole10/configure-ad)
+  - [Configuring Active Directory within Azure VMs (Part Three - Creating User Accounts)](https://github.com/KayNicole10/configure-ad)
+  - [Network Security Groups and Inspecting Network Protocols](https://github.com/KayNicole10/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
