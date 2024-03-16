@@ -4,7 +4,6 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Configuration](https://github.com/KayNicole10/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/KayNicole10/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs (Part One - Creating VMs)](https://github.com/KayNicole10/configure-ad-part-1)
   - [Configuring Active Directory within Azure VMs (Part Two - Installing Active Directory)](https://github.com/KayNicole10/configure-ad-part-2)
