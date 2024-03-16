@@ -9,6 +9,7 @@
   - [Configuring Active Directory within Azure VMs (Part Two - Installing Active Directory)](https://github.com/KayNicole10/configure-ad-part-2)
   - [Configuring Active Directory within Azure VMs (Part Three - Creating User Accounts)](https://github.com/KayNicole10/configure-ad-part-3)
   - [Network Security Groups and Inspecting Network Protocols](https://github.com/KayNicole10/azure-network-protocols)
+  - [Network File Shares and Permissions](https://github.com/KayNicole10/azure-file-shares-permissions)
 
 <h2>🤳Connect with me:</h2>
 
