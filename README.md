@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kaylin, an IT Professional</a>☺</h1>
 
-<h2>👨‍💻 My Projects:</h2>
+<h2>My Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Configuration](https://github.com/KayNicole10/post-install-config)
